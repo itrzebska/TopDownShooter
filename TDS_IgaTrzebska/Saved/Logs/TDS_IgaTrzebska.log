@@ -1909,3 +1909,255 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.15-23.23.37:694][414]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Main_level34BBEC1E41D139613DA4719AAC9209E0.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Content/Main/Main_level.umap'
 [2023.01.15-23.23.37:717][414]AssetCheck: New page: Asset Save: Main_level
 [2023.01.15-23.23.37:717][414]LogContentValidation: Display: Validating World /Game/Main/Main_level.Main_level
+[2023.01.15-23.33.37:924][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.01.15-23.33.37:933][618]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main_level' took 0.039
+[2023.01.15-23.33.37:933][618]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([2] browsable assets)...
+[2023.01.15-23.33.37:951][618]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.01.15-23.33.37:951][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.01.15-23.33.37:991][618]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/BP_Soldier_01_Auto536EC250D48733A06EBEC52A8EB7657E9.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto5.uasset'
+[2023.01.15-23.33.37:992][618]LogFileHelpers: Auto-saving content packages took 0.059
+[2023.01.15-23.35.23:310][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2023.01.15-23.35.46:090][249]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.01.15-23.36.58:203][110]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.01.15-23.36.58:289][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.01.15-23.39.23:495][742]LogContentBrowser: Deferred new asset folder creation: NewFolder1
+[2023.01.15-23.39.23:514][742]LogContentBrowser: Creating deferred item: NewFolder1
+[2023.01.15-23.39.29:394][ 78]LogContentBrowser: Attempting asset rename: NewFolder1 -> UMG
+[2023.01.15-23.39.29:395][ 78]LogContentBrowser: End creating deferred item NewFolder1
+[2023.01.15-23.39.52:255][313]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.01.15-23.39.52:274][313]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.01.15-23.39.52:918][350]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2023.01.15-23.39.52:937][350]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.01.15-23.39.54:501][435]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/NewWidgetBlueprint.NewWidgetBlueprint
+[2023.01.15-23.40.01:292][687]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint1
+[2023.01.15-23.40.01:315][687]LogContentBrowser: Creating deferred item: NewWidgetBlueprint1
+[2023.01.15-23.40.03:937][832]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint1 -> NewWidgetBlueprint1
+[2023.01.15-23.40.04:058][832]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2023.01.15-23.40.04:068][832]LogContentBrowser: End creating deferred item NewWidgetBlueprint1
+[2023.01.15-23.40.04:575][860]Cmd: TRANSACTION UNDO
+[2023.01.15-23.40.04:576][860]LogEditorTransaction: Undo Move Nodes
+[2023.01.15-23.40.08:023][966]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2023.01.15-23.40.09:291][966]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.15-23.40.09:447][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.01.15-23.40.20:346][520]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HUD
+[2023.01.15-23.40.20:397][520]LogMetaData: Removing '/Game/UMG/HUD.SKEL_HUD_C' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2023.01.15-23.40.20:397][520]LogMetaData: Removing '/Game/UMG/HUD.HUD_C' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2023.01.15-23.40.20:397][520]LogMetaData: Removing '/Game/UMG/HUD.HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2023.01.15-23.40.20:397][520]LogMetaData: Removing '/Game/UMG/HUD.HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2023.01.15-23.40.20:397][520]LogMetaData: Removing '/Game/UMG/HUD.HUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2023.01.15-23.40.20:428][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Content/UMG/HUD.uasset" SILENT=true
+[2023.01.15-23.40.20:433][520]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/HUDD3A92C5D4251DD52880037978693D2E7.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Content/UMG/HUD.uasset'
+[2023.01.15-23.40.20:566][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2023.01.15-23.40.20:627][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2023.01.15-23.40.20:666][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.15-23.40.20:726][520]AssetCheck: New page: Asset Save: HUD
+[2023.01.15-23.40.20:726][520]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG/HUD.HUD
+[2023.01.15-23.42.42:613][401]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.15-23.43.04:221][ 17]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.15-23.43.54:972][851]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.15-23.45.13:605][953]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2023.01.15-23.45.13:619][953]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Main_level_Auto62288A420469B8BB61FC9AA82D77FA7A2.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/Main/Main_level_Auto6.umap'
+[2023.01.15-23.45.13:621][953]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main_level' took 0.065
+[2023.01.15-23.45.13:621][953]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2023.01.15-23.45.13:621][953]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([2] browsable assets)...
+[2023.01.15-23.45.13:672][953]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.01.15-23.45.13:672][953]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.01.15-23.45.13:718][953]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/BP_Soldier_01_Auto6547E1D1B4F99E702300167AFE4786F72.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto6.uasset'
+[2023.01.15-23.45.13:719][953]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/HUD] ([2] browsable assets)...
+[2023.01.15-23.45.13:719][953]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/HUD]
+[2023.01.15-23.45.13:719][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/UMG/HUD_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.01.15-23.45.13:724][953]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/HUD_Auto61E85873F4800281A15EAFD8245F1CCA9.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/UMG/HUD_Auto6.uasset'
+[2023.01.15-23.45.13:728][953]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/NewWidgetBlueprint1_Auto6CAF1798941323410D994B691C123A249.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/UMG/NewWidgetBlueprint1_Auto6.uasset'
+[2023.01.15-23.45.13:729][953]LogFileHelpers: Auto-saving content packages took 0.107
+[2023.01.15-23.48.51:167][298]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\wszec\Documents\optimusprinceps/OptimusPrinceps.ttf)
+[2023.01.15-23.48.53:638][298]LogSlate: Window 'Font Face Import Options' being destroyed
+[2023.01.15-23.48.53:646][298]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2023.01.15-23.48.53:651][298]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2023.01.15-23.48.53:654][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-23.48.53:661][298]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\wszec\Documents\optimusprinceps/OptimusPrincepsSemiBold.ttf)
+[2023.01.15-23.48.53:722][298]LogSlate: Took 0.001542 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.15-23.48.54:964][298]LogSlate: Window 'Font Face Import Options' being destroyed
+[2023.01.15-23.48.54:975][298]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2023.01.15-23.48.54:977][298]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2023.01.15-23.48.54:981][298]LogSlate: Took 0.002833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.15-23.48.54:984][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-23.48.55:006][298]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.15-23.48.55:007][298]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.15-23.48.55:028][298]LogSlate: Took 0.001144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.15-23.48.55:031][298]LogSlate: Took 0.000833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.15-23.48.55:062][298]LogSlate: Took 0.014748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.15-23.49.01:974][644]LogSlate: Took 0.004070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.15-23.55.14:077][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.01.15-23.55.14:080][ 79]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main_level' took 0.046
+[2023.01.15-23.55.14:080][ 79]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/HUD] ([2] browsable assets)...
+[2023.01.15-23.55.14:080][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/HUD]
+[2023.01.15-23.55.14:080][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/UMG/HUD_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.01.15-23.55.14:085][ 79]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/HUD_Auto744A8ECC645029FC30594E1A3A5C01A31.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/UMG/HUD_Auto7.uasset'
+[2023.01.15-23.55.14:087][ 79]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/optimusprinceps/OptimusPrinceps] ([1] browsable assets)...
+[2023.01.15-23.55.14:087][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/optimusprinceps/OptimusPrinceps]
+[2023.01.15-23.55.14:088][ 79]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/OptimusPrinceps_Auto78C7CE41C4AEEF7D91959899BE470C26B.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/UMG/optimusprinceps/OptimusPrinceps_Auto7.uasset'
+[2023.01.15-23.55.14:089][ 79]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/optimusprinceps/OptimusPrincepsSemiBold] ([1] browsable assets)...
+[2023.01.15-23.55.14:089][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/optimusprinceps/OptimusPrincepsSemiBold]
+[2023.01.15-23.55.14:090][ 79]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/OptimusPrincepsSemiBold_Auto7CB7DD15741CC5A60B03B83811721A612.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/UMG/optimusprinceps/OptimusPrincepsSemiBold_Auto7.uasset'
+[2023.01.15-23.55.14:091][ 79]LogFileHelpers: Auto-saving content packages took 0.011
+[2023.01.16-00.02.15:384][117]AssetReimport: New page: Outstanding source content changes 02:02:15
+[2023.01.16-00.02.15:387][117]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Content/NewFolder/Bez tytułu.png)
+[2023.01.16-00.02.15:585][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/Bez tytułu" FILE="../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Content/NewFolder/Bez tytułu.uasset" SILENT=true
+[2023.01.16-00.02.15:587][118]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Bez tytułu684F1C15432571050ED04D8AFC7C3920.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Content/NewFolder/Bez tytułu.uasset'
+[2023.01.16-00.02.15:654][119]AssetCheck: New page: Asset Save: Bez tytułu
+[2023.01.16-00.02.15:654][119]LogContentValidation: Display: Validating Texture2D /Game/NewFolder/Bez tytułu.Bez tytułu
+[2023.01.16-00.02.18:625][244]AssetReimport: Importing new asset /Game/NewFolder/Bez tytułu.
+[2023.01.16-00.02.59:429][794]LogEditorTransaction: Undo Resize Widget
+[2023.01.16-00.02.59:995][803]LogEditorTransaction: Undo Resize Widget
+[2023.01.16-00.03.00:592][820]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.01.16-00.04.21:299][777]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.01.16-00.04.55:529][121]LogEditorTransaction: Undo Remove Widget
+[2023.01.16-00.04.56:049][131]LogEditorTransaction: Undo Remove Widget
+[2023.01.16-00.05.51:864][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2023.01.16-00.05.51:866][702]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main_level' took 0.046
+[2023.01.16-00.05.51:867][702]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/HUD] ([4] browsable assets)...
+[2023.01.16-00.05.51:867][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/HUD]
+[2023.01.16-00.05.51:867][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/UMG/HUD_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2023.01.16-00.05.51:872][702]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/HUD_Auto88193F3C7468CF7A4B3BC498DA56A52AF.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/UMG/HUD_Auto8.uasset'
+[2023.01.16-00.05.51:873][702]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.01.16-00.06.49:401][232]LogEditorTransaction: Undo Edit Size
+[2023.01.16-00.06.57:350][587]LogEditorTransaction: Undo Edit Letter Spacing
+[2023.01.16-00.06.58:101][606]Cmd: TRANSACTION UNDO
+[2023.01.16-00.06.58:101][606]LogEditorTransaction: Undo Edit Letter Spacing
+[2023.01.16-00.09.49:984][817]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\wszec\Downloads\5ee772d099588c0004aa684b.png)
+[2023.01.16-00.09.49:990][817]LogTexture: Display: Building textures: 5ee772d099588c0004aa684b (BGRA8, 549X449)
+[2023.01.16-00.09.57:398][ 78]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/NewFolder/Bez tytułu.Bez tytułu
+[2023.01.16-00.09.57:459][ 78]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0083 seconds. Added 1 classes and 2 folders.
+[2023.01.16-00.09.59:303][156]LogSlate: Window 'Bez tytułu' being destroyed
+[2023.01.16-00.09.59:311][156]LogSlate: Window 'Bez tytułu' being destroyed
+[2023.01.16-00.09.59:318][156]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-00.09.59:318][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-00.09.59:413][156]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-00.09.59:413][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-00.09.59:431][156]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-00.09.59:431][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-00.10.08:551][684]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/HUD.HUD
+[2023.01.16-00.12.42:645][254]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.01.16-00.12.43:260][255]LogSlate: Took 0.002387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.16-00.13.25:620][284]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.16-00.13.49:922][ 45]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.01.16-00.13.49:944][ 45]LogBlueprint: Error: [AssetLog] C:\Users\wszec\Documents\GitHub\TopDownShooter\TDS_IgaTrzebska\Content\Blueprints\Pawns\BP_Soldier_01.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2023.01.16-00.13.50:153][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2023.01.16-00.13.50:220][ 45]LogSlate: Took 0.002516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.16-00.14.00:935][485]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.01.16-00.14.01:124][485]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2023.01.16-00.14.05:236][593]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.16-00.14.05:247][593]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.16-00.14.05:251][593]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2023.01.16-00.14.05:357][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.01.16-00.14.05:359][593]LogPlayLevel: PlayLevel: Blueprint regeneration took 111 ms (1 blueprints)
+[2023.01.16-00.14.05:359][593]PIE: New page: PIE session: Main_level (16 sty 2023, 02:14:05)
+[2023.01.16-00.14.05:359][593]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main_level
+[2023.01.16-00.14.05:361][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001798s)
+[2023.01.16-00.14.05:362][593]LogAIModule: Creating AISystem for world Main_level
+[2023.01.16-00.14.05:362][593]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2023.01.16-00.14.05:362][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main_level.Main_level to /Game/Main/UEDPIE_0_Main_level.Main_level (0.003175s)
+[2023.01.16-00.14.05:391][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.01.16-00.14.05:392][593]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.01.16-00.14.05:392][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.16-00.14.05:392][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.16-00.14.05:392][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.16-00.14.05:392][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.16-00.14.05:392][593]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.16-00.14.05:392][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.16-00.14.05:392][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.16-00.14.05:392][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.16-00.14.05:393][593]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.16-00.14.05:393][593]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.16-00.14.05:393][593]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.16-00.14.05:393][593]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.16-00.14.05:399][593]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.16-00.14.05:399][593]LogAudioMixer: Display: 1: FrontRight
+[2023.01.16-00.14.05:463][593]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.01.16-00.14.05:463][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.16-00.14.05:463][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.16-00.14.05:463][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.16-00.14.05:464][593]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.16-00.14.05:464][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.16-00.14.05:464][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.16-00.14.05:465][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.16-00.14.05:465][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.16-00.14.05:465][593]LogInit: FAudioDevice initialized.
+[2023.01.16-00.14.05:465][593]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main_level'.
+[2023.01.16-00.14.05:477][593]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.01.16-00.14.05:479][593]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main_level.Main_level up for play (max tick rate 60) at 2023.01.16-01.14.05
+[2023.01.16-00.14.05:480][593]LogWorld: Bringing up level for play took: 0.001598
+[2023.01.16-00.14.05:480][593]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.01.16-00.14.05:487][593]PIE: Server logged in
+[2023.01.16-00.14.05:488][593]PIE: Play in editor total start time 0,242 seconds.
+[2023.01.16-00.14.09:395][801]LogRenderer: Reallocating scene render targets to support 964x676 Format 10 NumSamples 1 (Frame:197).
+[2023.01.16-00.14.09:439][802]LogRenderer: Reallocating scene render targets to support 964x680 Format 10 NumSamples 1 (Frame:198).
+[2023.01.16-00.14.42:350][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-00.14.42:351][750]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main_level
+[2023.01.16-00.14.42:351][750]LogWorld: UWorld::CleanupWorld for Main_level, bSessionEnded=true, bCleanupResources=true
+[2023.01.16-00.14.42:351][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-00.14.42:386][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.16-00.14.42:440][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.16-00.14.42:473][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.16-00.14.42:474][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.16-00.14.42:475][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.16-00.14.42:488][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2023.01.16-00.14.42:536][751]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.01.16-00.15.16:858][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.01.16-00.15.16:874][ 73]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Main_levelD568AC61491679757DED9C9315834BB6.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Content/Main/Main_level.umap'
+[2023.01.16-00.15.16:903][ 73]AssetCheck: New page: Asset Save: Main_level
+[2023.01.16-00.15.16:903][ 73]LogContentValidation: Display: Validating World /Game/Main/Main_level.Main_level
+[2023.01.16-00.16.54:755][384]LogSlate: Took 0.002555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.01.16-00.21.49:141][197]LogBlueprint: Warning: [AssetLog] C:\Users\wszec\Documents\GitHub\TopDownShooter\TDS_IgaTrzebska\Content\UMG\HUD.uasset: [Compiler] Variable Soldier is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2023.01.16-00.21.56:718][536]BlueprintLog: New page: Compile HUD
+[2023.01.16-00.21.56:796][536]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2023.01.16-00.26.04:994][ 64]BlueprintLog: New page: Compile HUD
+[2023.01.16-00.26.05:071][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2023.01.16-00.27.58:129][782]BlueprintLog: New page: Compile HUD
+[2023.01.16-00.27.58:138][782]LogBlueprint: Error: [AssetLog] C:\Users\wszec\Documents\GitHub\TopDownShooter\TDS_IgaTrzebska\Content\UMG\HUD.uasset: [Compiler] The property associated with  Health  could not be found in '/Game/UMG/HUD.HUD_C'
+[2023.01.16-00.27.58:188][782]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2023.01.16-00.28.34:755][239]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.01.16-00.28.34:836][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2023.01.16-00.28.35:790][277]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.01.16-00.28.35:872][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2023.01.16-00.28.35:996][280]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.01.16-00.28.36:068][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.01.16-00.28.36:193][283]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.01.16-00.28.36:263][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2023.01.16-00.28.36:408][287]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.01.16-00.28.36:483][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2023.01.16-00.28.36:607][290]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.01.16-00.28.36:681][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2023.01.16-00.28.36:781][292]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.01.16-00.28.36:859][292]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2023.01.16-00.28.36:962][294]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.01.16-00.28.37:036][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.01.16-00.28.40:810][476]BlueprintLog: New page: Compile HUD
+[2023.01.16-00.28.40:865][476]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2023.01.16-00.29.50:783][577]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2023.01.16-00.29.50:795][577]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Main_level_Auto96EBE80C04F3B2B8023116A8764F9C26B.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/Main/Main_level_Auto9.umap'
+[2023.01.16-00.29.50:797][577]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main_level' took 0.059
+[2023.01.16-00.29.50:797][577]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2023.01.16-00.29.50:797][577]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([2] browsable assets)...
+[2023.01.16-00.29.50:812][577]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.01.16-00.29.50:812][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.01.16-00.29.50:859][577]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/BP_Soldier_01_Auto9303405EE44D006D568F69587993E71DE.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto9.uasset'
+[2023.01.16-00.29.50:861][577]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/HUD] ([4] browsable assets)...
+[2023.01.16-00.29.50:861][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/HUD]
+[2023.01.16-00.29.50:861][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HUD" FILE="../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/UMG/HUD_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2023.01.16-00.29.50:874][577]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/HUD_Auto997E8B79B47677A5B400C2AB8438A095E.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/UMG/HUD_Auto9.uasset'
+[2023.01.16-00.29.50:877][577]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewFolder/5ee772d099588c0004aa684b] ([1] browsable assets)...
+[2023.01.16-00.29.50:884][577]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/NewFolder/5ee772d099588c0004aa684b.5ee772d099588c0004aa684b]
+[2023.01.16-00.29.50:884][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewFolder/5ee772d099588c0004aa684b]
+[2023.01.16-00.29.50:890][577]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/5ee772d099588c0004aa684b_Auto9D2B038F74AAD12E674BF2E919C94399A.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Autosaves/Game/NewFolder/5ee772d099588c0004aa684b_Auto9.uasset'
+[2023.01.16-00.29.50:890][577]LogFileHelpers: Auto-saving content packages took 0.094
+[2023.01.16-00.30.53:962][789]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.01.16-00.30.54:043][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.01.16-00.31.54:637][951]BlueprintLog: New page: Compile HUD
+[2023.01.16-00.31.54:653][951]LogBlueprint: Error: [AssetLog] C:\Users\wszec\Documents\GitHub\TopDownShooter\TDS_IgaTrzebska\Content\UMG\HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:ColorAndOpacityDelegate ' on Widget ' TextBlock_2 ': Binding: 'None' : 'None' was not found on 'HUD'.
+[2023.01.16-00.31.54:697][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2023.01.16-00.32.02:410][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2023.01.16-00.32.04:189][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2023.01.16-00.32.04:201][483]LogSavePackage: Moving '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Saved/Main_level11CBB95C4A22E68E53214C9D2C463B88.tmp' to '../../../../../../Users/wszec/Documents/GitHub/TopDownShooter/TDS_IgaTrzebska/Content/Main/Main_level.umap'
+[2023.01.16-00.32.04:228][483]AssetCheck: New page: Asset Save: Main_level
+[2023.01.16-00.32.04:228][483]LogContentValidation: Display: Validating World /Game/Main/Main_level.Main_level
